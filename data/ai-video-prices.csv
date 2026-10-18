@@ -1,0 +1,34 @@
+as_of,model,maker,atlas_model_id,resolution,quoted_seconds,usd_quoted_clip,usd_quoted_clip_audio_off,usd_per_second,usd_per_second_audio_off,has_audio_switch,mode,aspect_ratio,price_type,provider
+2026-10-17,Seedance 2.5,ByteDance,bytedance/seedance-2.5/text-to-video,720p,10,3.771349,3.771349,0.3771,0.3771,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Seedance 2.5,ByteDance,bytedance/seedance-2.5/text-to-video,1080p,10,7.422857,7.422857,0.7423,0.7423,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Seedance 2.0,ByteDance,bytedance/seedance-2.0/text-to-video,720p,10,2.42928,2.42928,0.2429,0.2429,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Seedance 2.0,ByteDance,bytedance/seedance-2.0/text-to-video,1080p,10,5.46588,5.46588,0.5466,0.5466,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Seedance 2.0 Fast,ByteDance,bytedance/seedance-2.0-fast/text-to-video,720p,10,1.943424,1.943424,0.1943,0.1943,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Seedance 2.0 Mini,ByteDance,bytedance/seedance-2.0-mini/text-to-video,720p,10,1.21464,1.21464,0.1215,0.1215,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Kling 3.0 Pro,Kuaishou,kwaivgi/kling-v3.0-pro/text-to-video,fixed,10,1.68,1.12,0.168,0.112,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Kling 3.0 Standard,Kuaishou,kwaivgi/kling-v3.0-std/text-to-video,fixed,10,1.26,0.84,0.126,0.084,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Kling 3.0 Turbo,Kuaishou,kwaivgi/kling-v3.0-turbo/text-to-video,720p,10,1.12,,0.112,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Kling 3.0 Turbo,Kuaishou,kwaivgi/kling-v3.0-turbo/text-to-video,1080p,10,1.4,,0.14,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1,Google,google/veo3.1/text-to-video,720p,8,3.2,1.6,0.4,0.2,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1,Google,google/veo3.1/text-to-video,1080p,8,3.2,1.6,0.4,0.2,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1 Fast,Google,google/veo3.1-fast/text-to-video,720p,8,0.768,0.64,0.096,0.08,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1 Fast,Google,google/veo3.1-fast/text-to-video,1080p,8,0.96,0.8,0.12,0.1,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1 Lite,Google,google/veo3.1-lite/text-to-video,720p,8,0.4,,0.05,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Veo 3.1 Lite,Google,google/veo3.1-lite/text-to-video,1080p,8,0.64,,0.08,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Wan 3.0,Alibaba,alibaba/wan-3.0/text-to-video,720p,10,1.0,1.0,0.1,0.1,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Wan 3.0,Alibaba,alibaba/wan-3.0/text-to-video,1080p,10,2.0,2.0,0.2,0.2,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Wan 3.0 Prime,Alibaba,alibaba/wan-3.0-prime/text-to-video,720p,10,1.4,1.4,0.14,0.14,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Wan 3.0 Prime,Alibaba,alibaba/wan-3.0-prime/text-to-video,1080p,10,2.8,2.8,0.28,0.28,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,MiniMax H3,MiniMax,minimax/h3/text-to-video,768p,10,0.8,,0.08,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,MiniMax H3 Max,MiniMax,minimax/h3-max/text-to-video,768p,10,0.8,,0.08,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Grok Imagine Video 1.5,xAI,xai/grok-imagine-video-v1.5/text-to-video,720p,10,1.4,,0.14,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Grok Imagine Video 1.5,xAI,xai/grok-imagine-video-v1.5/text-to-video,1080p,10,2.5,,0.25,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Vidu Q3 Pro,Vidu,vidu/q3-pro/text-to-video,720p,10,1.25,1.25,0.125,0.125,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Vidu Q3 Pro,Vidu,vidu/q3-pro/text-to-video,1080p,10,1.5,1.5,0.15,0.15,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Luma Ray 3.2,Luma,luma/ray-3.2/text-to-video,720p,10,0.99,,0.099,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Luma Ray 3.2,Luma,luma/ray-3.2/text-to-video,1080p,10,3.96,,0.396,,false,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,LTX 2.5 Pro,Lightricks,ltx/ltx-2.5-pro/text-to-video,720p,10,1.32,1.32,0.132,0.132,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,LTX 2.5 Pro,Lightricks,ltx/ltx-2.5-pro/text-to-video,1080p,10,1.87,1.87,0.187,0.187,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,PixVerse V6,PixVerse,pixverse/v6/text-to-video,720p,10,0.6,0.45,0.06,0.045,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,PixVerse V6,PixVerse,pixverse/v6/text-to-video,1080p,10,1.15,0.9,0.115,0.09,true,text-to-video,16:9,list (origin_price),Atlas Cloud
+2026-10-17,Gemini Omni Flash,Google,google/gemini-omni-flash/text-to-video,720p,10,1.25,,0.125,,false,text-to-video,16:9,list (origin_price),Atlas Cloud

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "AI video price index: USD per second for text-to-video models"
+authors:
+  - name: "Katechon"
+    website: "https://katechon.technology"
+date-released: "2026-10-17"
+version: "2026-10-17"
+license: CC-BY-4.0
+url: "https://arc.katechon.technology/ai-video-price-index"
+repository: "https://github.com/Katechon-Technology/ai-video-price-index"
+abstract: "List prices in USD per second for 20 text-to-video models (Seedance, Kling, Veo, Wan, MiniMax, Grok Imagine, Vidu, Luma, LTX, PixVerse, Gemini Omni), quoted on one day from Atlas Cloud's price-calculation endpoint so they are comparable."
+keywords:
+  - ai video
+  - pricing
+  - text-to-video
+  - seedance
+  - kling
+  - veo
+  - dataset

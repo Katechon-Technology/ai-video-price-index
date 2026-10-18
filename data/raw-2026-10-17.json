@@ -1,0 +1,304 @@
+{
+ "asOf": "2026-10-17",
+ "source": "https://api.atlascloud.ai/api/v1/model/calculate",
+ "catalog": "https://www.atlascloud.ai/models",
+ "rows": [
+  {
+   "name": "Seedance 2.5",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.5/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 3.771349,
+   "usdWithoutAudio": 3.771349
+  },
+  {
+   "name": "Seedance 2.5",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.5/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 7.422857,
+   "usdWithoutAudio": 7.422857
+  },
+  {
+   "name": "Seedance 2.0",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.0/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 2.42928,
+   "usdWithoutAudio": 2.42928
+  },
+  {
+   "name": "Seedance 2.0",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.0/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 5.46588,
+   "usdWithoutAudio": 5.46588
+  },
+  {
+   "name": "Seedance 2.0 Fast",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.0-fast/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.943424,
+   "usdWithoutAudio": 1.943424
+  },
+  {
+   "name": "Seedance 2.0 Mini",
+   "maker": "ByteDance",
+   "model": "bytedance/seedance-2.0-mini/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.21464,
+   "usdWithoutAudio": 1.21464
+  },
+  {
+   "name": "Kling 3.0 Pro",
+   "maker": "Kuaishou",
+   "model": "kwaivgi/kling-v3.0-pro/text-to-video",
+   "resolution": "fixed",
+   "seconds": 10,
+   "usd": 1.68,
+   "usdWithoutAudio": 1.12
+  },
+  {
+   "name": "Kling 3.0 Standard",
+   "maker": "Kuaishou",
+   "model": "kwaivgi/kling-v3.0-std/text-to-video",
+   "resolution": "fixed",
+   "seconds": 10,
+   "usd": 1.26,
+   "usdWithoutAudio": 0.84
+  },
+  {
+   "name": "Kling 3.0 Turbo",
+   "maker": "Kuaishou",
+   "model": "kwaivgi/kling-v3.0-turbo/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.12,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Kling 3.0 Turbo",
+   "maker": "Kuaishou",
+   "model": "kwaivgi/kling-v3.0-turbo/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 1.4,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Veo 3.1",
+   "maker": "Google",
+   "model": "google/veo3.1/text-to-video",
+   "resolution": "720p",
+   "seconds": 8,
+   "usd": 3.2,
+   "usdWithoutAudio": 1.6
+  },
+  {
+   "name": "Veo 3.1",
+   "maker": "Google",
+   "model": "google/veo3.1/text-to-video",
+   "resolution": "1080p",
+   "seconds": 8,
+   "usd": 3.2,
+   "usdWithoutAudio": 1.6
+  },
+  {
+   "name": "Veo 3.1 Fast",
+   "maker": "Google",
+   "model": "google/veo3.1-fast/text-to-video",
+   "resolution": "720p",
+   "seconds": 8,
+   "usd": 0.768,
+   "usdWithoutAudio": 0.64
+  },
+  {
+   "name": "Veo 3.1 Fast",
+   "maker": "Google",
+   "model": "google/veo3.1-fast/text-to-video",
+   "resolution": "1080p",
+   "seconds": 8,
+   "usd": 0.96,
+   "usdWithoutAudio": 0.8
+  },
+  {
+   "name": "Veo 3.1 Lite",
+   "maker": "Google",
+   "model": "google/veo3.1-lite/text-to-video",
+   "resolution": "720p",
+   "seconds": 8,
+   "usd": 0.4,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Veo 3.1 Lite",
+   "maker": "Google",
+   "model": "google/veo3.1-lite/text-to-video",
+   "resolution": "1080p",
+   "seconds": 8,
+   "usd": 0.64,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Wan 3.0",
+   "maker": "Alibaba",
+   "model": "alibaba/wan-3.0/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.0,
+   "usdWithoutAudio": 1.0
+  },
+  {
+   "name": "Wan 3.0",
+   "maker": "Alibaba",
+   "model": "alibaba/wan-3.0/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 2.0,
+   "usdWithoutAudio": 2.0
+  },
+  {
+   "name": "Wan 3.0 Prime",
+   "maker": "Alibaba",
+   "model": "alibaba/wan-3.0-prime/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.4,
+   "usdWithoutAudio": 1.4
+  },
+  {
+   "name": "Wan 3.0 Prime",
+   "maker": "Alibaba",
+   "model": "alibaba/wan-3.0-prime/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 2.8,
+   "usdWithoutAudio": 2.8
+  },
+  {
+   "name": "MiniMax H3",
+   "maker": "MiniMax",
+   "model": "minimax/h3/text-to-video",
+   "resolution": "768p",
+   "seconds": 10,
+   "usd": 0.8,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "MiniMax H3 Max",
+   "maker": "MiniMax",
+   "model": "minimax/h3-max/text-to-video",
+   "resolution": "768p",
+   "seconds": 10,
+   "usd": 0.8,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Grok Imagine Video 1.5",
+   "maker": "xAI",
+   "model": "xai/grok-imagine-video-v1.5/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.4,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Grok Imagine Video 1.5",
+   "maker": "xAI",
+   "model": "xai/grok-imagine-video-v1.5/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 2.5,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Vidu Q3 Pro",
+   "maker": "Vidu",
+   "model": "vidu/q3-pro/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.25,
+   "usdWithoutAudio": 1.25
+  },
+  {
+   "name": "Vidu Q3 Pro",
+   "maker": "Vidu",
+   "model": "vidu/q3-pro/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 1.5,
+   "usdWithoutAudio": 1.5
+  },
+  {
+   "name": "Luma Ray 3.2",
+   "maker": "Luma",
+   "model": "luma/ray-3.2/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 0.99,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "Luma Ray 3.2",
+   "maker": "Luma",
+   "model": "luma/ray-3.2/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 3.96,
+   "usdWithoutAudio": null
+  },
+  {
+   "name": "LTX 2.5 Pro",
+   "maker": "Lightricks",
+   "model": "ltx/ltx-2.5-pro/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.32,
+   "usdWithoutAudio": 1.32
+  },
+  {
+   "name": "LTX 2.5 Pro",
+   "maker": "Lightricks",
+   "model": "ltx/ltx-2.5-pro/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 1.87,
+   "usdWithoutAudio": 1.87
+  },
+  {
+   "name": "PixVerse V6",
+   "maker": "PixVerse",
+   "model": "pixverse/v6/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 0.6,
+   "usdWithoutAudio": 0.45
+  },
+  {
+   "name": "PixVerse V6",
+   "maker": "PixVerse",
+   "model": "pixverse/v6/text-to-video",
+   "resolution": "1080p",
+   "seconds": 10,
+   "usd": 1.15,
+   "usdWithoutAudio": 0.9
+  },
+  {
+   "name": "Gemini Omni Flash",
+   "maker": "Google",
+   "model": "google/gemini-omni-flash/text-to-video",
+   "resolution": "720p",
+   "seconds": 10,
+   "usd": 1.25,
+   "usdWithoutAudio": null
+  }
+ ]
+}
