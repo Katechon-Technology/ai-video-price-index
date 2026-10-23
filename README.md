@@ -91,4 +91,4 @@ Katechon, *AI video price index* (2026-10-17), <https://arc.katechon.technology/
 
 ## About
 
-Published by [Katechon](https://katechon.technology), which makes [Katechon Arc](https://arc.katechon.technology) (an AI studio for short dramas and video ads) and [Cast](https://cast.katechon.technology) (an AI character video app). Both run on models in this index; we publish the numbers because we needed them ourselves.
+Published by [Katechon](https://katechon.technology), which makes [Katechon Arc](https://arc.katechon.technology) (an AI studio for short dramas and video ads) and [Cast](https://cast.katechon.technology) (a card game for short AI dramas), and produces [Malfoid](https://malfoid.tv/?s=github), an original AI series. All of them run on models in this index; we publish the numbers because we needed them ourselves.
